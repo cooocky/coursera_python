@@ -1,0 +1,7 @@
+# exclude virtual environment
+venv/
+.idea/
+
+# exclue test input data files
+*.csv
+*.txt
